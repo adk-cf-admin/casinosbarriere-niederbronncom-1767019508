@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://casinosbarriere-niederbronn.com/
+Sitemap: https://casinosbarriere-niederbronn.com/sitemap.xml

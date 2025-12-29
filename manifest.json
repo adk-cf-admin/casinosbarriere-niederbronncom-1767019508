@@ -1,0 +1,19 @@
+{
+  "name": "Casino Barrière Niederbronn‑les‑Bains",
+  "short_name": "Casino Barrière Niederbronn‑les‑Bains",
+  "theme_color": "",
+  "background_color": "#1B1B1A",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1767016440-favicon-32x32-17.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
